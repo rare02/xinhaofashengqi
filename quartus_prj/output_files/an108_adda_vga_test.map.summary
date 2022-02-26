@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sat Feb 26 12:26:39 2022
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Standard Edition
+Revision Name : an108_adda_vga_test
+Top-level Entity Name : an108_adda_vga_test
+Family : Cyclone IV E
+Total logic elements : 858
+    Total combinational functions : 788
+    Dedicated logic registers : 516
+Total registers : 532
+Total pins : 32
+Total virtual pins : 0
+Total memory bits : 24,576
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 2
